@@ -15,9 +15,7 @@ Pod::Spec.new do |s|
     s.libraries = 'c++', 'z','sqlite3.0','xml2'
     s.resources  = ['**/Resources/QYResource.bundle', '**/Resources/QYLanguage.bundle', '**/Resources/QYCustomResource.bundle']
     s.dependency 'NIMSDK_LITE', '8.8.3'
-    s.subspec 'foreign' do |f|
-        f.source_files = 'SDK/foreign/**'
-    end
+    s.source_files = 'SDK/foreign/**'
     s.requires_arc = true
 
 end
