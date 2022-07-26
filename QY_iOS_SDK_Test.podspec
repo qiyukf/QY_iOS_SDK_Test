@@ -18,9 +18,6 @@ Pod::Spec.new do |s|
         f.source_files = 'SDK/foreign/**'
         f.dependency 'NIMSDK_LITE', '9.2.8'
     end
-    s.subspec 'domestic' do |f|
-        f.dependency 'NIMSDK_LITE', '8.8.3'
-    end
     s.requires_arc = true
 
 end
