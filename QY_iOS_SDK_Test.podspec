@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     s.resources  = ['**/Resources/QYResource.bundle', '**/Resources/QYLanguage.bundle', '**/Resources/QYCustomResource.bundle']
     s.dependency 'NIMSDK_LITE', '8.8.3'
     s.subspec 'foreign' do |f|
-        f.source_files = '*/foreign/QYNIMConfig+subspec.h','*/foreign/QYNIMConfig+subspec.m'
+        f.source_files = '*/foreign/QYNIMConfig+subspec.h'
         f.frameworks = 'Foundation'
     end  
     s.requires_arc = true
