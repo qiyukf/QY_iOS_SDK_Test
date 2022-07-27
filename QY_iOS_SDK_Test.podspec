@@ -18,8 +18,7 @@ Pod::Spec.new do |s|
     s.subspec 'foreign' do |f|
         f.source_files = 'SDK/foreign/*'
         f.frameworks = 'Foundation'
-        f.xcconfig = { "FRAMEWORK_SEARCH_PATHS" => "$(PODS_ROOT)"}
-    end
+    end  
     s.requires_arc = true
 
 end
