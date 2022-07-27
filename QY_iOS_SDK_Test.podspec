@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
     s.subspec 'foreign' do |f|
         f.source_files = '*/foreign/QYNIMConfig+subspec.h','*/foreign/QYNIMConfig+subspec.m'
         f.frameworks = 'Foundation'
+        f.dependency '**/QYSDK.framework'
     end  
     s.requires_arc = true
 
