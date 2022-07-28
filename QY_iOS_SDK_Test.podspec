@@ -15,10 +15,14 @@ Pod::Spec.new do |s|
     s.libraries = 'c++', 'z','sqlite3.0','xml2'
     s.resources  = ['**/Resources/QYResource.bundle', '**/Resources/QYLanguage.bundle', '**/Resources/QYCustomResource.bundle']
     s.dependency 'NIMSDK_LITE', '8.8.3'
+    s.default_subspec = 'Core'
+    s.subspec 'Core' do |core|
+        core.source_files = '*/Core/*.{h,m}'
+        f.framework = 'AVFoundation'
+      end
     s.subspec 'foreign' do |f|
         f.source_files = '*/foreign/QYNIMConfig+subspec.h','*/foreign/QYNIMConfig+subspec.m'
-        f.frameworks = 'Foundation'
-        f.dependency '**/QYSDK.framework'
+        f.dependency 'QY_iOS_SDK_Test/Core'
     end  
     s.requires_arc = true
 
