@@ -6,9 +6,9 @@
 //  Copyright © 2022 Netease. All rights reserved.
 //
 
-#import "QYNIMConfig+subspec.h"
+#import "QYNIMConfig+abroad.h"
 
-@implementation QYNIMConfig (subspec)
+@implementation QYNIMConfig (abroad)
 - (BOOL)sw_isForeign {
     return YES;
 }
