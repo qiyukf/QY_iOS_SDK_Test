@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     s.default_subspec = 'Default'
     s.subspec 'Default' do |ds|
         ds.vendored_frameworks = '**/QYSDK.framework'
-        ds.dependency 'NIMSDK_LITE', '8.9.2'
+        ds.dependency 'QY_NIMSDK_LITE', '8.9.2'
       end
     s.subspec 'Abroad' do |as|
         as.source_files = '**/QYNIMConfig+abroad.h','**/QYNIMConfig+abroad.m'
