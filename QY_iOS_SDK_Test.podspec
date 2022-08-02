@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
         as.dependency 'NIMSDK_LITE', '9.2.8'
         
     end  
-    s.pod_target_xcconfig = { 'VALID_ARCHS' => '$(ARCHS_STANDARD)' }
+    s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 x86_64 arm64' }
     s.requires_arc = true
 
 end
