@@ -196,7 +196,7 @@
 "QYToastStringLeftConsultation" = "Umalis ka sa konsultasyon";
 "QYToastStringFillInfoTip" = "Paki-click ang susunod na pindutan para punan ang impormasyon";
 "QYToastStringUnknownError" = "Hindi alam na kamali";
-"QYStringOrderProcess" = "Pag-usad ng order ng trabaho";
+"QYStringOrderProcess" = "Rekord ng order ng trabaho";
 "QYToastStringRequestFail" = "Nabigo ang kahilingan";
 "QYMessageStringWorkOrderMsg" = "[Mensahe ng Order ng Trabaho]";
 "QYToastStringPlayingSpeaker" = "Naglalaro gamit ng speaker";
@@ -214,6 +214,7 @@
 "QYMessageStringQueryMsg" = "[Mensahe ng Pagtatanong]";
 "QYMessageStringVideoText" = "Nagpadala ng video";
 "QYStringOrderNumber" = "Num. ng Order: %@";
+"QYStringGoodsNumber" = "Produkto id：%@";
 "QYTitleStringWorkOrderDetail" = "Mga detalye ng order ng trabaho";
 "QYButtonStringReminded" = "Ipinaalala para sa iyo";
 "QYMessageStringUnknownFile" = "Hindi kilalang file";
@@ -327,3 +328,28 @@
 "QYButtonStringEvaluateImmediately" = "Gumawa ng agarang pagsusuri";
 "QYMessageStringMiniProgramCard" = "[Kard ng Aplikasyon]";
 "QYToastStringLoadingWait" = "Naglo-load, pakihintay...";
+"QYStringDatePicker" = "piliin ang petsa";
+"QYStringDateAndTimePicker" = "Piliin ang petsa at oras";
+"QYToastStringPhoneError" = "Mas mababa sa %1d bits ang numero ng telepono";
+"QYStringConnectHuman" = "Manu-manong serbisyo sa kostumer";
+"QYStringAllAttachments" = "Tingnan ang lahat ng %lu attachment";
+"QYStringAttachmentNum" = "Isang kabuuan ng %lu attachment";
+"QYButtonStringGiveUp" = "Kanselahin";
+"QYButtonStringSubmitEvaluationNavi" = "Suriin at Isara";
+"QYButtonStringCloseSession" = "Tumigil sa Sesyon";
+"QYButtonStringLeaveSession" = "Pansamantalang Umalis";
+"QYToastStringEvaluationLimit" = "Naabot ang limit ng pagsusuri";
+"QYButtonStringWaitingConnect" = "Kumukunekta, pakihintay...";
+"QYToastStringPreCloseSession" = "Kinakailangan ang paunang pagtatanong para sa live na ahente. Kumpirmahing umalis sa pakikipag-usap?";
+"QYButtonStringIconAppend" = "pagkukumpuni";
+"QYButtonStringOrderSearchHolder" = "Mangyaring ilagay ang uri ng tiket";
+"QYButtonStringOrderStatus" = "Lahat ng katayuan ng order sa trabaho";
+"QYButtonStringOrderSort" = "Pagbukud-bukurin ayon sa %@";
+"QYButtonStringCreateTime" = "oras ng paglikha";
+"QYButtonStringUpdateTime" = "oras ng pag-update";
+"QYButtonStringBuCaiLiao" = "Mga materyales na pupunan";
+"QYButtonStringOrderHangUp" = "ibaba ang tawag";
+"QYButtonStringOrderAppendInfo" = "Karagdagang impormasyon";
+"QYButtonStringOrderNeedAppendInfo" = "Kinakailangan ang karagdagang impormasyon";
+"QYButtonStringOrderNeedAppendTitle" = "Kasalukuyang kailangan mong dagdagan ang sumusunod na impormasyon";
+

@@ -196,7 +196,7 @@
 "QYToastStringLeftConsultation" = "お問い合わせを終了しました";
 "QYToastStringFillInfoTip" = "次のボタンをクリックして情報を記入してください";
 "QYToastStringUnknownError" = "未知のエラー";
-"QYStringOrderProcess" = "課題の進捗";
+"QYStringOrderProcess" = "課題記録";
 "QYToastStringRequestFail" = "リクエストに失敗しました";
 "QYMessageStringWorkOrderMsg" = "[フォームメッセージ]";
 "QYToastStringPlayingSpeaker" = "スピーカー再生しています";
@@ -214,6 +214,7 @@
 "QYMessageStringQueryMsg" = "[検索メッセージ]";
 "QYMessageStringVideoText" = "より動画が送信されました";
 "QYStringOrderNumber" = "注文番号：%@";
+"QYStringGoodsNumber" = "商品ID：%@";
 "QYTitleStringWorkOrderDetail" = "課題の詳細";
 "QYButtonStringReminded" = "催促をしました";
 "QYMessageStringUnknownFile" = "未知のファイル";
@@ -327,4 +328,27 @@
 "QYButtonStringEvaluateImmediately" = "今すぐ評価";
 "QYMessageStringMiniProgramCard" = "[ミニプログラムカード]";
 "QYToastStringLoadingWait" = "ローディング中ですので、少々お待ちください…";
-
+"QYStringDatePicker" = "日付を選択";
+"QYStringDateAndTimePicker" = "時間を選択する";
+"QYToastStringPhoneError" = "携帯電話の番号の桁数が%1d桁以下です";
+"QYStringConnectHuman" = "カスタマーサービス人間の担当者";
+"QYStringAllAttachments" = "%lu 個の添付ファイルをすべて表示";
+"QYStringAttachmentNum" = "合計 %lu 個の添付ファイル";
+"QYButtonStringGiveUp" = "キャンセル";
+"QYButtonStringSubmitEvaluationNavi" = "評価して閉じる";
+"QYButtonStringCloseSession" = "セッションを閉じる";
+"QYButtonStringLeaveSession" = "一時退社";
+"QYToastStringEvaluationLimit" = "レビュー回数は上限に達しました";
+"QYButtonStringWaitingConnect" = "接続中ですので、少々お待ちください...";
+"QYToastStringPreCloseSession" = "ライブエージェントの場合は事前のお問い合わせが必要です。会話を終了しますか？";
+"QYButtonStringIconAppend" = "補充する";
+"QYButtonStringOrderSearchHolder" = "チケットタイプを入力してください";
+"QYButtonStringOrderStatus" = "すべての作業指示ステータス";
+"QYButtonStringOrderSort" = "並べ替え ％@";
+"QYButtonStringCreateTime" = "作成時間";
+"QYButtonStringUpdateTime" = "更新時間";
+"QYButtonStringBuCaiLiao" = "補充する材料";
+"QYButtonStringOrderHangUp" = "電話を切る";
+"QYButtonStringOrderAppendInfo" = "追加情報";
+"QYButtonStringOrderNeedAppendInfo" = "補足情報が必要です";
+"QYButtonStringOrderNeedAppendTitle" = "現在、次の情報を補足する必要があります";

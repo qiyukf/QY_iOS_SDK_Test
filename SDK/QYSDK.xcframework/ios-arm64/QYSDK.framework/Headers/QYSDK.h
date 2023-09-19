@@ -68,6 +68,9 @@ typedef NS_ENUM(NSInteger, QYLanguage) {
     QYLanguageFilipino              = 10,    //菲律宾语
     QYLanguageRussian               = 11,    //俄语
     QYLanguageArabic                = 12,    //阿拉伯语
+    QYLanguageTurkey                = 13,    //土耳其
+    QYLanguageSpain                 = 14,    //西班牙
+    QYLanguagePortugal              = 15,    //葡萄牙
 };
 
 
@@ -315,7 +318,11 @@ typedef NS_ENUM(NSInteger, QYLanguage) {
  */
 - (void)registerCustomDecoderForFusion:(id<NIMCustomAttachmentCoding>)decoder;
 
-
+/**
+ 再次请求后台样式
+ 由于首次启动APP时，未完成网络权限授权，导致后台样式数据请求失败，因此，为保证数据完整性，建议使用者启动APP时对网络变化进行监听，并在监听中调用此方法
+ */
+- (void)loadStyleConfig;
 #pragma mark - Deprecated
 ///**
 // *  已废弃
@@ -334,5 +341,6 @@ typedef NS_ENUM(NSInteger, QYLanguage) {
 // */
 //- (void)addUserInfo:(NSDictionary *)infos;
 
-
+#pragma mark - Debug
+- (void)log:(NSString *)log;
 @end

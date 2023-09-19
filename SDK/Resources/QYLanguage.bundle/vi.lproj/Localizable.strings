@@ -196,7 +196,7 @@
 "QYToastStringLeftConsultation" = "Bạn đã rời khỏi cuộc tư vấn";
 "QYToastStringFillInfoTip" = "Vui lòng nhấn vào nút bên dưới để điền thông tin";
 "QYToastStringUnknownError" = "Lỗi không xác định";
-"QYStringOrderProcess" = "Tiến độ phiếu yêu cầu";
+"QYStringOrderProcess" = "Nhật ký phiếu yêu cầu";
 "QYToastStringRequestFail" = "Yêu cầu không thành công";
 "QYMessageStringWorkOrderMsg" = "[Thông tin phiếu yêu cầu]";
 "QYToastStringPlayingSpeaker" = "Đang sử dụng loa để phát";
@@ -214,6 +214,7 @@
 "QYMessageStringQueryMsg" = "[Tra cứu thông tin]";
 "QYMessageStringVideoText" = "Đã gửi một đoạn video";
 "QYStringOrderNumber" = "Mã số đơn hàng: %@";
+"QYStringGoodsNumber" = "ID sản phẩm：%@";
 "QYTitleStringWorkOrderDetail" = "Chi tiết phiếu yêu cầu";
 "QYButtonStringReminded" = "Đã giục đơn hàng cho bạn";
 "QYMessageStringUnknownFile" = "Tệp không xác định";
@@ -327,3 +328,28 @@
 "QYButtonStringEvaluateImmediately" = "Đánh giá ngay bây giờ";
 "QYMessageStringMiniProgramCard" = "[Thẻ chương trình nhỏ]";
 "QYToastStringLoadingWait" = "Đang tải, vui lòng đợi...";
+"QYStringDatePicker" = "chọn ngày";
+"QYStringDateAndTimePicker" = "thời gian lựa chọn";
+"QYToastStringPhoneError" = "Số điện thoại không đủ %1d số";
+"QYStringConnectHuman" = "Nhân viên CSKH";
+"QYStringAllAttachments" = "Xem tất cả %lu tệp đính kèm";
+"QYStringAttachmentNum" = "Tổng số %lu tệp đính kèm";
+"QYButtonStringGiveUp" = "Hủy";
+"QYButtonStringSubmitEvaluationNavi" = "Đánh giá và Đóng";
+"QYButtonStringCloseSession" = "Thoát phiên";
+"QYButtonStringLeaveSession" = "Tạm thời nghỉ việc";
+"QYToastStringEvaluationLimit" = "Đã đạt đến số lần đánh ";
+"QYButtonStringWaitingConnect" = "Đang kết nối, vui lòng đợi...";
+"QYToastStringPreCloseSession" = "Yêu cầu trước là cần thiết cho đại lý trực tiếp. Có chắc chắn muốn thoát khỏi cuộc trò chuyện?";
+"QYButtonStringIconAppend" = "bổ sung";
+"QYButtonStringOrderSearchHolder" = "Vui lòng nhập loại vé";
+"QYButtonStringOrderStatus" = "Tất cả trạng thái lệnh sản xuất";
+"QYButtonStringOrderSort" = "Sắp xếp theo %@";
+"QYButtonStringCreateTime" = "thời gian sáng tạo";
+"QYButtonStringUpdateTime" = "cập nhật thời gian";
+"QYButtonStringBuCaiLiao" = "Tài liệu cần bổ sung";
+"QYButtonStringOrderHangUp" = "treo lên";
+"QYButtonStringOrderAppendInfo" = "Thông tin thêm";
+"QYButtonStringOrderNeedAppendInfo" = "Thông tin bổ sung bắt buộc";
+"QYButtonStringOrderNeedAppendTitle" = "Hiện tại bạn cần bổ sung các thông tin sau";
+

@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/QYCommodityInfo.h</key>
 		<data>
-		/RbT8rInmNBbIwck5pPriMCd7Gs=
+		o2mQwlekSCFX4+voN5yfNr28/+o=
 		</data>
 		<key>Headers/QYConversationManager.h</key>
 		<data>
-		sGH7UQnFC7r13rPOmgDThqEjur4=
+		1HLfUbLlEJjNiEggQwLAqzqyZo4=
 		</data>
 		<key>Headers/QYCustomActionConfig.h</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Headers/QYCustomUIConfig.h</key>
 		<data>
-		ot0cTnIL9pnP+9z/ol0VfAVkhPU=
+		LLpU6KfXRb1DW9tlxHliYRgN+is=
 		</data>
 		<key>Headers/QYEvaluation.h</key>
 		<data>
-		KrErXUxUQdtlvdzB2ZJEnYxxejA=
+		kWdBwSznk9FcIVehZ7rJf3EOVIg=
 		</data>
 		<key>Headers/QYHeaders.h</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Headers/QYSDK.h</key>
 		<data>
-		5FJ7NiQKaJoU1ELdXgqm2NKAuf8=
+		h7KNooRaKj8w/c5ApwmXxriy/dI=
 		</data>
 		<key>Headers/QYSDKOption.h</key>
 		<data>
-		GDyFb6CCXcTLKUIprcu18IHEKQY=
+		R+uTt0QxixYKcRjJtg6CZYBc/jM=
 		</data>
 		<key>Headers/QYSDKSPI.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Headers/QYSessionViewController.h</key>
 		<data>
-		NHb35iz9rewiryblW6hxVKjyXTQ=
+		er0/VcVpBQ/5IFq3IitPfPjftr4=
 		</data>
 		<key>Headers/QYSource.h</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Headers/QYVideoServiceProtocol.h</key>
 		<data>
-		7OrFllYQ0Zo7nq3jVAQEf2WQLGY=
+		NahahBRHbO7L/1Dpf7Z/GB5pi48=
 		</data>
 		<key>Headers/QYWorkOrderListViewController.h</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B/CeZzZJdL99/sWFiGRr8ODYh3Y=
+		6IgyhIXPGkX+fz0qEicwSh54K5w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -166,22 +166,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/RbT8rInmNBbIwck5pPriMCd7Gs=
+			o2mQwlekSCFX4+voN5yfNr28/+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			+uFXIOt9BSs2HtfbT5iPbylpUvQrEgY+nQFH1SaBKbg=
+			8/Ft/sm9So4MwqyaELik9SlimVY2HcgvXptTakM/tsE=
 			</data>
 		</dict>
 		<key>Headers/QYConversationManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sGH7UQnFC7r13rPOmgDThqEjur4=
+			1HLfUbLlEJjNiEggQwLAqzqyZo4=
 			</data>
 			<key>hash2</key>
 			<data>
-			2hjqYOuDDbdkKk3P2Gk0MNVznfJ3dCnlnyU+NZfnsYo=
+			us5jgiuJoySUluTlzYMPEsuorliaPHLY5Tgt7UwJIh0=
 			</data>
 		</dict>
 		<key>Headers/QYCustomActionConfig.h</key>
@@ -287,22 +287,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ot0cTnIL9pnP+9z/ol0VfAVkhPU=
+			LLpU6KfXRb1DW9tlxHliYRgN+is=
 			</data>
 			<key>hash2</key>
 			<data>
-			ljpnRm+Q0+c2VMD19EnCmP86SdChztbtBtFYci8N0h0=
+			NVFYGMbOo5WSitrjGxc2j/ocJvt3PxlXjf9k0iyU614=
 			</data>
 		</dict>
 		<key>Headers/QYEvaluation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KrErXUxUQdtlvdzB2ZJEnYxxejA=
+			kWdBwSznk9FcIVehZ7rJf3EOVIg=
 			</data>
 			<key>hash2</key>
 			<data>
-			/h7Cpsa3FPTalDau0UIIppe4yQHZFK4NCM+djAtd9B8=
+			EjxF4B6rqlWKDzTY9H9LBGQamL1OSUS6BfE0Avl8nRo=
 			</data>
 		</dict>
 		<key>Headers/QYHeaders.h</key>
@@ -408,22 +408,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5FJ7NiQKaJoU1ELdXgqm2NKAuf8=
+			h7KNooRaKj8w/c5ApwmXxriy/dI=
 			</data>
 			<key>hash2</key>
 			<data>
-			T4LhPaevCGXJMNpdBKIqCZRDoBcTDWTSX2zqp3ClWUA=
+			fQXjF0/UhtxBiiRHulwZ8wPJ1fI0U/xdyQlQdm9pMqE=
 			</data>
 		</dict>
 		<key>Headers/QYSDKOption.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GDyFb6CCXcTLKUIprcu18IHEKQY=
+			R+uTt0QxixYKcRjJtg6CZYBc/jM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xt8fRxJKnJuIX/PywAE1kx4dHwvjwnBeHzikC7frhKI=
+			g8zcK9dYNyURFo0JOJR3Zir8fnvQI2+uFpke1dxMvpE=
 			</data>
 		</dict>
 		<key>Headers/QYSDKSPI.h</key>
@@ -463,11 +463,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NHb35iz9rewiryblW6hxVKjyXTQ=
+			er0/VcVpBQ/5IFq3IitPfPjftr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ISEdz3ijsuzFJXNCYNKsWOt5KvP0bHyel7oNQ46810Y=
+			9AopUQt5AUR6u6V7UQe/WCenYQUuFRdEz8rfk6lbwKw=
 			</data>
 		</dict>
 		<key>Headers/QYSource.h</key>
@@ -507,11 +507,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7OrFllYQ0Zo7nq3jVAQEf2WQLGY=
+			NahahBRHbO7L/1Dpf7Z/GB5pi48=
 			</data>
 			<key>hash2</key>
 			<data>
-			pu9RU0dWJetDlfwjO0hy96xUG3HpW+9SHeWLKKFMIYk=
+			J9JdZ86JZbmuuR0e6o5rEjtCBH+PE55lIrdcX+ldUfw=
 			</data>
 		</dict>
 		<key>Headers/QYWorkOrderListViewController.h</key>

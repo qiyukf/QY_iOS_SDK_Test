@@ -12,6 +12,8 @@ typedef void (^RulesCallBack)(BOOL isAgree);
 @protocol QYVideoServiceProtocol <NSObject>
 
 @optional
+//获取视频客服SDK版本号
+- (int)getVideoVersion;
 //解析视频客服模块的命令并处理
 - (void)vs_parseAndDealWithContent:(NSString *)content;
 //上报服务端是否支持视频客服

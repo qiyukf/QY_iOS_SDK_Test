@@ -107,6 +107,7 @@
 "QYToastStringNoMicrophonePermission" = "没有麦克风权限";
 "QYButtonStringRefresh" = "刷新";
 "QYButtonStringEvaluate" = "评价";
+"QYButtonStringGiveUp" = "放弃";
 "QYButtonStringInviteEdit" = "邀请用户修改";
 "QYToastStringConnectFail" = "连接失败，您可以尝试重新连接";
 "QYToastStringVideoUnknownError" = "未知播放错误";
@@ -177,6 +178,7 @@
 "QYMessageStringLeaveMsg" = "[留言消息]";
 "QYButtonStringSend" = "发送";
 "QYStringConnectServer" = "联系商家客服";
+"QYStringConnectHuman" = "联系人工客服";
 "QYButtonStringDone" = "完成";
 "QYButtonStringFullImage" = "原图";
 "QYToastStringCameraDetectError" = "检测不到相机设备";
@@ -204,7 +206,7 @@
 "QYToastStringLeftConsultation" = "您退出了咨询";
 "QYToastStringFillInfoTip" = "请点击以下按钮填写信息";
 "QYToastStringUnknownError" = "未知错误";
-"QYStringOrderProcess" = "工单进度";
+"QYStringOrderProcess" = "工单记录";
 "QYToastStringRequestFail" = "请求失败";
 "QYMessageStringWorkOrderMsg" = "[工单消息]";
 "QYToastStringPlayingSpeaker" = "正在使用扬声器播放";
@@ -222,6 +224,7 @@
 "QYMessageStringQueryMsg" = "[查询消息]";
 "QYMessageStringVideoText" = "发来了一段视频";
 "QYStringOrderNumber" = "订单编号：%@";
+"QYStringGoodsNumber" = "商品ID：%@";
 "QYTitleStringWorkOrderDetail" = "工单详情";
 "QYButtonStringReminded" = "已为您催单";
 "QYMessageStringUnknownFile" = "未知文件";
@@ -283,6 +286,7 @@
 "QYToastStringLeftSession" = "您已退出咨询";
 "QYStringMiniProgram" = "小程序";
 "QYButtonStringSubmitEvaluation" = "提交评价";
+"QYButtonStringSubmitEvaluationNavi" = "提交评价并关闭会话";
 "QYMessageStringOption" = "#选择项#";
 "QYToastStringCustomerEvaluationResult" = "您对我们的服务评价为：%@。非常感谢！%@";
 "QYButtonStringRemind" = "我要催单";
@@ -306,6 +310,8 @@
 "QYMessageStringRobotSessionEnd" = "机器人会话结束";
 "QYToastStringPhotoSelectMin" = "请至少选择%zd张照片";
 "QYStringAttachment" = "附件";
+"QYStringAllAttachments" = "查看所有%lu个附件";
+"QYStringAttachmentNum" = "共%lu个附件";
 "QYToastStringConvertFail" = "转换失败";
 "QYToastStringReminding" = "催单中";
 "QYToastStringCameraError" = "相机启动失败，请重新尝试";
@@ -335,3 +341,22 @@
 "QYButtonStringEvaluateImmediately" = "立即评价";
 "QYMessageStringMiniProgramCard" = "[小程序卡片]";
 "QYToastStringLoadingWait" = "正在加载，请稍候…";
+"QYStringDatePicker" = "选择日期";
+"QYStringDateAndTimePicker" = "选择日期及时间";
+"QYToastStringPhoneError" = "手机号不足%ld位";
+"QYButtonStringCloseSession" = "关闭会话";
+"QYButtonStringLeaveSession" = "暂时离开";
+"QYButtonStringWaitingConnect" = "正在连接，请稍等...";
+"QYToastStringEvaluationLimit" = "评价次数已达到上限";
+"QYToastStringPreCloseSession" = "需先填写表单才能转人工，是否要退出对话？";
+"QYButtonStringIconAppend" = "补";
+"QYButtonStringOrderSearchHolder" = "请输入工单类型";
+"QYButtonStringOrderStatus" = "所有工单状态";
+"QYButtonStringOrderSort" = "按%@排序";
+"QYButtonStringCreateTime" = "创建时间";
+"QYButtonStringUpdateTime" = "更新时间";
+"QYButtonStringBuCaiLiao" = "待补充材料";
+"QYButtonStringOrderHangUp" = "挂起";
+"QYButtonStringOrderAppendInfo" = "补充信息";
+"QYButtonStringOrderNeedAppendInfo" = "需补充信息";
+"QYButtonStringOrderNeedAppendTitle" = "您当前需补充回复如下信息";
