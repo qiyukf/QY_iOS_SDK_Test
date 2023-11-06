@@ -17,3 +17,4 @@ Pod::Spec.new do |s|
     s.dependency 'QY_RENAME_NIMSDK', '8.9.117.4'
     s.requires_arc = true
 
+end
