@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name     = 'QY_iOS_SDK_Test'
-    s.version  = '8.10.1'
+    s.version  = '8.10.2'
     s.license  = { :"type" => "Copyright",
                    :"text" => " Copyright 2021 Netease \n"}  
     s.summary  = '网易七鱼客服访客端 iOS SDK'
