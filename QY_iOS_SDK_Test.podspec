@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.version  = '8.10.3'
     s.license  = { :"type" => "Copyright",
                    :"text" => " Copyright 2021 Netease \n"}  
-    s.summary  = '网易七鱼客服访客端 iOS SDK'
+    s.summary  = ' iOS SDK'
     s.homepage = 'https://qiyukf.com'
     s.author   = { 'qiyukf' => 'yunshangfu@126.com' }
     s.source   = { :git => 'https://github.com/qiyukf/QY_iOS_SDK_Test.git', :tag => "#{s.version}" }
@@ -18,5 +18,6 @@ Pod::Spec.new do |s|
     s.requires_arc = true
     s.description = <<-DESC
     ## 接入说明
+    ###网易七鱼客服访客端接入说明测试
     DESC
 end
