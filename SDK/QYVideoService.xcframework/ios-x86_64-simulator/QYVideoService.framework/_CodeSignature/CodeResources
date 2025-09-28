@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/QYKFNIMSDK.framework/Info.plist</key>
 		<data>
-		QJNokR3Z3tbE4FIwHUHaNsmX+GI=
+		bHK+tS2db0Cs+zb20OgBV0J7brk=
 		</data>
 		<key>Frameworks/QYKFNIMSDK.framework/NEZQFPSupport.bundle/grow</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Frameworks/QYKFNIMSDK.framework/QYKFNIMSDK</key>
 		<data>
-		g1jEt5bWO3eHLxPpgz5fSghzI/g=
+		+rc6EEX6hdgbEq4pfoo/9rwFzmc=
 		</data>
 		<key>Frameworks/QYKFNIMSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		dEmibBpi7UIouvQDRv9HMIQJ0qs=
+		eSg/pDSTfh1SWORULfnJnB7Ge9o=
 		</data>
 		<key>Frameworks/QYKFNIMSDK.framework/cacert-2021-10-26.pem</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		A7aDDVQ5A14XeXbr6Agx/gax410=
+		bMIFORUgFQ5lQHMkQuPuWeKXP3Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QJNokR3Z3tbE4FIwHUHaNsmX+GI=
+			bHK+tS2db0Cs+zb20OgBV0J7brk=
 			</data>
 			<key>hash2</key>
 			<data>
-			r731EZH5bf4j6kr/wqXaT9yTrXxa2jEFbeG3NEA8UFU=
+			MK6XfJTvnyYb8RVUJWNnXcFFOOBpWyfOAu3WhkWPxXQ=
 			</data>
 		</dict>
 		<key>Frameworks/QYKFNIMSDK.framework/NEZQFPSupport.bundle/grow</key>
@@ -88,22 +88,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g1jEt5bWO3eHLxPpgz5fSghzI/g=
+			+rc6EEX6hdgbEq4pfoo/9rwFzmc=
 			</data>
 			<key>hash2</key>
 			<data>
-			NML4dgTfTDXc5K1hVMoMehFdC2QoVm2EN1sAs7yoJdo=
+			Kaa365c3ONE5OVaLYI61eZunqQB6w5R6h7uyN4puQFQ=
 			</data>
 		</dict>
 		<key>Frameworks/QYKFNIMSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dEmibBpi7UIouvQDRv9HMIQJ0qs=
+			eSg/pDSTfh1SWORULfnJnB7Ge9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			CLu6apa4EQqQguhZdwEq6uTtD4ow5tj6vP4GdE2A0sw=
+			Cz5hS/Cm4zFqYF2kYWyDX+9+kcNDnetE9H177uBPgO4=
 			</data>
 		</dict>
 		<key>Frameworks/QYKFNIMSDK.framework/cacert-2021-10-26.pem</key>
